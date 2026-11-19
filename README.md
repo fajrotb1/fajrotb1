@@ -1,71 +1,59 @@
-# Hi, I'm Fajr 👋
-
-### Programming & Web Development · Godot Game Programming Trainee
-
-I enjoy building web applications, working with databases, and turning ideas into interactive experiences.
-
-I'm studying **Programming and Web Development** and currently training in **game programming at Shafra Games**, as part of the **Godot team**.
+# فجر نادر العصيمي · Fajr Nader Alosaimi
 
 <div dir="rtl">
 
-أهلًا، أنا **فجر**. أدرس البرمجة وتطوير الويب، ويجذبني بناء التطبيقات وقواعد البيانات والتجارب التفاعلية. أتدرب حاليًا في برمجة الألعاب ضمن فريق **قودوت** في شركة **شفره للألعاب**.
+أدرس البرمجة وتطوير الويب، وأتدرّب على برمجة الألعاب ضمن فريق Godot في شركة شَفرة للألعاب. في مشاريع الويب أحب الشغل اللي يربط الواجهة بقاعدة البيانات، مثل تحديد أي موظفين يقدر المشرف يتابع تقدّمهم. وفي الألعاب أستمتع ببرمجة التفاعل بين اللاعب والعالم، من قراءة خريطة إلى اكتشاف كنز.
 
 </div>
 
-[Explore my projects ↓](#selected-work) · [Training GitHub](https://github.com/fajr-nader-alotaibi)
+I study programming and web development and train with the Godot team at Shafra Games. My work spans database design for team web applications and exploration games inspired by Saudi landscapes.
 
----
+## من أعمالي · Selected work
 
-## What I work with
+### [نماء · NAMAA](https://github.com/fajrotb1/fajrotb1/blob/main/projects/namaa.md)
 
-| Web | Backend & databases | Games | Tools |
+<div dir="rtl">
+
+منصة تدريب جماعية قيد التطوير. يتابع الموظف دوراته وتحدياته، ويشوف المشرف تقدّم موظفي قسمه. **مساهمتي** كانت في قاعدة البيانات وصلاحيات الأدوار، وربط لوحتي الإدارة والمشرف ببيانات الأقسام والموظفين.
+
+</div>
+
+I worked on the PostgreSQL database, role-based access, and dashboard integration. [Read the project overview in Arabic and English](https://github.com/fajrotb1/fajrotb1/blob/main/projects/namaa.md).
+
+### حجتي · Hajjati
+
+<div dir="rtl">
+
+مشروع جماعي يساعد منظّمي حملات الحج على إدارة الحجوزات والتحقّق من الحجاج برمز QR. **دوري في الفريق** كان تطوير قاعدة البيانات باستخدام PostgreSQL وSupabase.
+
+</div>
+
+I contributed database development to a team project for Hajj campaign organizers.
+
+### [أثر | خطى · Athar](https://github.com/fajr-nader-alotaibi/ather)
+
+<div dir="rtl">
+
+لعبة استكشاف ثنائية الأبعاد بالعربية والإنجليزية. تتبع اللاعبة تلميحات الخريطة وتحفر بحثًا عن الكنوز في خمس مناطق مستوحاة من السعودية، من عسير إلى ساحل البحر الأحمر.
+
+</div>
+
+A bilingual Godot and GDScript game about following map clues and digging for treasures across five Saudi-inspired landscapes.
+
+### [The Last Lantern](https://github.com/fajr-nader-alotaibi/The-Last-Lantern)
+
+<div dir="rtl">
+
+مشروع تحدّي تطوير ألعاب مدته خمسة أيام باستخدام Godot 4. يستكشف اللاعب غابة ثلاثية الأبعاد ويبحث عن أربعة فوانيس يضيئها ليكشف طريقه.
+
+</div>
+
+A five-day Godot game jam project built around finding and lighting four lanterns in a 3D forest to uncover the path ahead.
+
+## أدوات أستخدمها · Toolbox
+
+| Web | Databases | Games | Design & collaboration |
 | --- | --- | --- | --- |
-| HTML · CSS · JavaScript | SQL · PostgreSQL · Supabase | Godot · GDScript | Git · GitHub · Figma |
+| HTML, CSS, JavaScript | SQL, PostgreSQL, Supabase | Godot, GDScript | Figma, Git, GitHub |
 
-## Selected work
-
-### 🌱 [NAMAA — نماء](https://github.com/fajrotb1/fajrotb1/blob/main/projects/namaa.md)
-
-An employee training platform combining learning progress, assessments, challenges, and gamification, with experiences for employees, managers, and administrators.
-
-**Team contribution:** Database and access-control work, interface integration, and work on admin/manager dashboards.  
-**Stack:** JavaScript · Supabase · PostgreSQL  
-**Status:** In development · Public project overview, private source code
-
-[Read the project overview / استعراض المنصة](https://github.com/fajrotb1/fajrotb1/blob/main/projects/namaa.md)
-
-### 🕋 Hajjati — حجتي
-
-A team web project for organizing Hajj campaigns and supporting the pilgrim experience, including campaign management, bookings, and QR verification.
-
-**My contribution:** Database development  
-**Stack:** SQL · PostgreSQL · Supabase
-
-### 🌴 [ATHAR — أثر | خطى](https://github.com/fajr-nader-alotaibi/ather)
-
-A 2D exploration game inspired by Saudi landscapes and heritage, with Arabic and English support.
-
-**Stack:** Godot · GDScript  
-**Repository:** Training account
-
-### 🏮 [The Last Lantern](https://github.com/fajr-nader-alotaibi/The-Last-Lantern)
-
-A 3D atmospheric exploration and horror game project for a five-day game jam, centered on discovering and lighting lanterns in a mysterious forest.
-
-**Stack:** Godot  
-**Repository:** Training account
-
----
-
-## Growing through practice
-
-- Building web interfaces and connecting them to databases.
-- Developing gameplay and interactive systems with Godot.
-- Improving database design and access control.
-- Collaborating through Git, GitHub, and clear project documentation.
-
-<div dir="rtl">
-
-أشارك هنا أعمالًا شخصية وجماعية وتجارب من التدريب، مع توضيح مساهمتي وحالة المشروع. أحب التعلّم من المطورين والتعاون على أفكار تضيف تجربة مفيدة للمستخدم.
-
-</div>
+[حساب التدريب · Training GitHub](https://github.com/fajr-nader-alotaibi)
